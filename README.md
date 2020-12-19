@@ -14,7 +14,7 @@ git clone https://github.com/iraq-hacker/bot-Spam.git
 ```
 # open and run :
 ```
-cd bot-Spam
+cd Black
 chmod +x Instagram-Spam.cpython-39.pyc
 python Instagram-Spam.cpython-39.pyc
 ```
