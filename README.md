@@ -20,7 +20,9 @@ python Instagram-Spam.cpython-39.pyc
 ```
 
 # Follow the options :
-[!][https://github.com/IRAQ-hacker/bot-Spam/issues/1#issue-771338088]
+![Screenshot_٢٠٢٠١٢١٩-١١٣٨٢٣_Termux](https://user-images.githubusercontent.com/70316694/102685073-d8305480-41ee-11eb-92dc-d7504a48b1c5.jpg)
+
+
 1- Enter your user name .
 
 2- Enter your password .
