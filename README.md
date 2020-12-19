@@ -29,7 +29,7 @@ python Instagram-Spam.cpython-39.pyc
 
 3- Enter user The victim .
 
-4- sleep (10-15)
+4- sleep (10-30)
 
 I wish you a happy day
 
